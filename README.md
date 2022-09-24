@@ -1,4 +1,4 @@
-# ATM-Machine
+# ATM
 I built this project in C++ and it is a simulated ATM Machine. This program is simple but was interesting to create because it was my introduction to C++. The program begins by showing the user a list of options to select: 
 1.	Sign in
 2.	Balance
